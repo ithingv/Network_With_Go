@@ -28,5 +28,5 @@
 
 ### 목차
 
-- [Chapter 1 : 네트워크 시스템 개요](chapter1\README.md)
-- [Chapter 2 : 리소스의 위치와 트래픽 라우팅](chapter1\README.md)
+- [Chapter 1 : 네트워크 시스템 개요](chapter1/README.md)
+- [Chapter 2 : 리소스의 위치와 트래픽 라우팅](chapter2/README.md)
